@@ -15,7 +15,7 @@ educators can utilize the data for academic purposes.
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/gustavofariaa/FlashscoreScraping.git
+    git clone https://github.com/fathi-hamed/Flashscore-Scrapper-
     ```
 
 1. Navigate to the project directory:
@@ -218,5 +218,3 @@ Expected Goals (xG).home,Expected Goals (xG).away,Ball Possession.home,Ball Poss
 
 ---
 
-If you encounter any issues or have suggestions for improvements, feel free
-to [open an issue](https://github.com/gustavofariaa/FlashscoreScraping/issues).
