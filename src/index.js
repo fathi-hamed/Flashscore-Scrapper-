@@ -67,7 +67,7 @@ import { convertDataToCsv } from "./utils/csvHandler/index.js";
       default:
         console.error("ERROR: Invalid file type.");
         console.error(
-          "For usage instructions, please refer to the documentation at https://github.com/gustavofariaa/FlashscoreScraping"
+          "For usage instructions, please refer to the documentation at https://github.com/fathi-hamed/Flashscore-Scrapper-"
         );
     }
 
